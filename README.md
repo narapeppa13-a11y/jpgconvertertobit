@@ -1,5 +1,3 @@
-# jpgconvertertobit
-istant Download 
 <!DOCTYPE html>
 <html lang="it">
 <head>
